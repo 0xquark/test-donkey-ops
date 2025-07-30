@@ -19,6 +19,7 @@ conventional_commits:
     - Clients
     - Testing
     - Documentation
+    - CI
     # ... (all Rucio components)
   # Require an issue number in the commit message (future use)
   require_issue_number: true
